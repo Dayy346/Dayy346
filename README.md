@@ -14,49 +14,7 @@ def nice_to_meet_you():
 ```
 
 <!-- Start of Technologies Section -->
-<style>
-  table {
-    width: 100%;
-    border-collapse: collapse;
-  }
 
-  th, td {
-    text-align: left;
-    vertical-align: top;
-    padding: 10px;
-  }
-
-  th {
-    background-color: #242238;
-  }
-
-  td div {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 10px;
-  }
-
-  @media (max-width: 768px) {
-    table, thead, tbody, th, td, tr {
-      display: block;
-      width: 100%;
-    }
-
-    th, td {
-      padding: 10px 5px;
-    }
-
-    tr {
-      margin-bottom: 10px;
-    }
-
-    td div {
-      display: flex;
-      flex-wrap: wrap;
-      justify-content: center;
-    }
-  }
-</style>
 
 <table>
   <thead>
