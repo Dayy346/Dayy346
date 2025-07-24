@@ -8,9 +8,9 @@
 ```python
 def nice_to_meet_you():
     print("👋 Hi there, I'm Dayyan Hamid")
-    print("> 🎓 I'm a Computer Science major at Rutgers University")
-    print("> 🔬 I was an Information Records Management QA Intern @ Regeneron")
-    print("> 🔭 I'm looking for Software Development opportunities for May 2025!")
+    print("> 🎓 I'm a Computer Science Alumni From Rutgers University")
+    print("> 🔬 I am a Document Control Analyst for Regeneron and a Software Engineer for Troy Tutors")
+    print("> 🔭 I'm looking for Software/Data Engineering Opportunities!")
 ```
 
 <!-- Start of Technologies Section -->
