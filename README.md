@@ -9,8 +9,7 @@
 def nice_to_meet_you():
     print("> 👋 Hi there, I'm Dayyan Hamid")
     print("> 🎓 I'm a Computer Science Alumni From Rutgers University")
-    print("> 🔬 I am a Document Control Analyst for Regeneron and a Software Engineer for Troy Tutors")
-    print("> 🔭 I'm looking for Software/Data Engineering Opportunities!")
+    print("> 🔬 I am a junior AI Engineer at FCB Health and a Software Engineer for Troy Tutors")
 ```
 
 <!-- Start of Technologies Section -->
